@@ -1,0 +1,21 @@
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+	var window_width 	= $('#content-informasi').width();
+	var window_height 	= $(window).height();
+
+	$('#divForm #divList').width(window_width);
+	
+	ajaxloading('divList');
+	$('#divForm').load('script/php/form_akes_user.php');
+	$('#divList').load('script/php/list_akes_user.php');
+});
+</script>
+<ul class="breadcrumb">
+	<li><a href="<?=$_SERVER['PHP_SELF']?>"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+    <li class=".nav-divider">Management Data</li>
+    <li class=".nav-divider">Pengaturan</li>
+	<li class="breadcrumb-item active">Akses User</li>
+</ul>
+<div id="divForm" class="maintablecontent"></div>
+<div id="loadcontent"></div>
+<div id="divList" class="maintablecontainer"></div>
