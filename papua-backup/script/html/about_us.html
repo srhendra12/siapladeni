@@ -1,0 +1,19 @@
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+   var window_width 	= $('#content-informasi').width();
+   var window_height 	= $(window).height();
+
+   $('#divList').width(window_width);
+
+   var getID = GetUrlValue('id');
+   ajaxloading('divList');
+   $('#divList').load('script/php/about_us.php?id='+ getID);
+});
+</script>
+
+<ul class="breadcrumb">
+	<li><a href="<?=$_SERVER['PHP_SELF']?>"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+   <li class="breadcrumb-item active" aria-current="page">Tentang</li>
+</ul>
+
+<div id="divList" class="maintablecontainer"></div>

@@ -1,0 +1,2 @@
+[04-02-2022 08:19:03] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[04-02-2022 08:19:04] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1

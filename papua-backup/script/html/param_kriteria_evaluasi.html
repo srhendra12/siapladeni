@@ -1,0 +1,23 @@
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+	var window_width 	= $('#content-informasi').width();
+	var window_height 	= $(window).height();
+
+	$('#divList').height(window_height-40);
+	$('#divForm #divList').width(window_width);
+	
+	ajaxloading('divList');
+	$('#divForm').load('script/php/form_kriteria_evaluasi.php');
+	$('#divList').load('script/php/list_kriteria_evaluasi.php');
+});
+</script>
+<ul class="breadcrumb">
+	<li><a href="<?=$_SERVER['PHP_SELF']?>"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+    <li class=".nav-divider">Management Data</li>
+    <li class=".nav-divider">Parameter</li>
+    <li class=".nav-divider">Tahap Pasca Konstruksi</li>
+	<li class="breadcrumb-item active">Kriteria Evaluasi Pengembangan</li>
+</ul>
+<div id="divForm" class="maintablecontent"></div>
+<div id="loadcontent"></div>
+<div id="divList" class="maintablecontainer"></div>

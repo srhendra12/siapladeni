@@ -1,0 +1,11 @@
+[20-04-2022 04:22:04] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[20-04-2022 04:22:04] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[20-04-2022 04:22:09] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[20-04-2022 04:44:16] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[20-04-2022 04:44:18] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[20-04-2022 04:44:26] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[20-04-2022 04:49:24] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[20-04-2022 04:49:33] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[20-04-2022 05:11:18] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[20-04-2022 05:36:49] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[20-04-2022 06:05:36] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist

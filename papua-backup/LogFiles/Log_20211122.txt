@@ -1,0 +1,6 @@
+[22-11-2021 02:10:44] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[22-11-2021 04:47:24] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3

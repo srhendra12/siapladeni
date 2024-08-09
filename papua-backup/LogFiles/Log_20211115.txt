@@ -1,0 +1,109 @@
+[15-11-2021 00:14:02] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[15-11-2021 00:30:33] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[15-11-2021 00:48:04] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[15-11-2021 01:31:31] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[15-11-2021 01:38:36] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 01:38:36] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 01:56:37] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[15-11-2021 02:21:05] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[15-11-2021 02:30:16] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:31:06] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:33:23] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:36:58] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:37:05] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:46:18] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:46:25] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:53:30] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:53:33] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:55:14] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:55:34] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:56:35] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:57:47] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:59:19] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 02:59:29] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 03:04:24] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 03:04:36] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 03:34:13] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 04:01:36] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[15-11-2021 04:07:41] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 04:07:51] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 04:08:29] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 04:14:23] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:14:24] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:14:35] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:16:37] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:17:09] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:17:46] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:18:41] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:18:45] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:18:46] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:19:44] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:20:02] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:20:04] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:20:06] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 04:23:24] Error at line 390 in file /home/u1083135/public_html/papua/include/proses.php : Format file lampiran dokumen docx tidak sesuai
+[15-11-2021 04:26:10] Error at line 390 in file /home/u1083135/public_html/papua/include/proses.php : Format file lampiran dokumen docx tidak sesuai
+[15-11-2021 04:26:13] Error at line 390 in file /home/u1083135/public_html/papua/include/proses.php : Format file lampiran dokumen docx tidak sesuai
+[15-11-2021 04:31:26] Error at line 390 in file /home/u1083135/public_html/papua/include/proses.php : Format file lampiran dokumen docx tidak sesuai
+[15-11-2021 04:31:30] Error at line 390 in file /home/u1083135/public_html/papua/include/proses.php : Format file lampiran dokumen docx tidak sesuai
+[15-11-2021 04:34:55] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[15-11-2021 04:35:13] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[15-11-2021 05:31:09] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 05:31:50] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 05:35:52] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 05:45:30] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 05:46:22] Error at line 390 in file /home/u1083135/public_html/papua/include/proses.php : Format file lampiran dokumen docx tidak sesuai
+[15-11-2021 05:46:26] Error at line 390 in file /home/u1083135/public_html/papua/include/proses.php : Format file lampiran dokumen docx tidak sesuai
+[15-11-2021 05:49:07] Error at line 390 in file /home/u1083135/public_html/papua/include/proses.php : Format file lampiran dokumen docx tidak sesuai
+[15-11-2021 06:21:07] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 06:25:41] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 06:34:08] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 06:38:03] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 07:05:20] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 07:10:34] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 07:11:47] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 07:12:28] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 07:12:38] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 07:12:46] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 07:13:43] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 07:13:47] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 07:24:27] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[15-11-2021 07:58:14] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[15-11-2021 09:21:18] Error at line 80 in file /home/u1083135/public_html/papua/script/php/rekap_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 2
+[15-11-2021 09:21:18] Error at line 80 in file /home/u1083135/public_html/papua/script/php/rekap_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 2
+[15-11-2021 09:21:21] Error at line 80 in file /home/u1083135/public_html/papua/script/php/rekap_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 2
+[15-11-2021 09:21:29] Error at line 80 in file /home/u1083135/public_html/papua/script/php/rekap_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 2
+[15-11-2021 09:21:47] Error at line 80 in file /home/u1083135/public_html/papua/script/php/rekap_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 2
+[15-11-2021 09:21:47] Error at line 80 in file /home/u1083135/public_html/papua/script/php/rekap_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 2
+[15-11-2021 09:21:52] Error at line 80 in file /home/u1083135/public_html/papua/script/php/rekap_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 2
+[15-11-2021 09:34:12] Error at line 92 in file /home/u1083135/public_html/papua/script/php/rekap_potensi_ancaman.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 3
+[15-11-2021 09:34:12] Error at line 92 in file /home/u1083135/public_html/papua/script/php/rekap_potensi_ancaman.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 3
+[15-11-2021 09:34:16] Error at line 92 in file /home/u1083135/public_html/papua/script/php/rekap_potensi_ancaman.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 3
+[15-11-2021 09:35:26] Error at line 92 in file /home/u1083135/public_html/papua/script/php/rekap_potensi_ancaman.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 3
+[15-11-2021 09:36:37] Error at line 80 in file /home/u1083135/public_html/papua/script/php/rekap_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 2
+[15-11-2021 09:36:37] Error at line 80 in file /home/u1083135/public_html/papua/script/php/rekap_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 2
+[15-11-2021 09:36:44] Error at line 80 in file /home/u1083135/public_html/papua/script/php/rekap_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 2
+[15-11-2021 09:37:55] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 09:37:55] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 09:38:02] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-11-2021 21:07:41] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist

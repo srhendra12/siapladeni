@@ -1,0 +1,27 @@
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+	var window_width 	= $('#content-informasi').width();
+	$('#divList').width(window_width - 40);
+
+	ajaxloading('divList');
+	$('#divForm').load('script/php/form_param_kriteria.php?isKriteria=false&nmFile=list_tahap_perencanaan');
+	$('#divList').load('script/php/list_tahap_perencanaan.php');
+});
+</script>
+<ul class="breadcrumb">
+	<li><a href="<?=$_SERVER['PHP_SELF']?>"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+    <li class=".nav-divider">Management Data</li>
+	<li class=".nav-divider">Elemen Assessment</li>
+    <li class="breadcrumb-item active">Instrument Deteksi Dini</li>
+</ul>
+<div class="center-block">
+    <div class="panel panel-info">
+        <div class="panel-heading" align="left">
+          <b class="panel-title">Daftar Elemen Assessment Instrument Deteksi Dini</b>
+        </div>
+        <div class="panel-body">
+			<div id="divForm"></div>
+			<div id="divList" class="maintablecontainer"></div>
+		</div>
+	</div>
+</div>

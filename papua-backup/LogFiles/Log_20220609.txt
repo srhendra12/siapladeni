@@ -1,0 +1,2 @@
+[09-06-2022 00:31:19] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[09-06-2022 04:54:01] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist

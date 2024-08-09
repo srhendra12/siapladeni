@@ -1,0 +1,4 @@
+[30-11-2021 02:52:00] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[30-11-2021 03:23:35] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[30-11-2021 05:33:17] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[30-11-2021 05:33:18] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1

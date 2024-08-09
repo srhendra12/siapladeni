@@ -1,0 +1,104 @@
+[11-11-2021 00:52:06] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:08:43] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:09:50] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 01:09:56] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 01:10:02] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:10:10] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:10:15] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 01:10:16] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 01:10:42] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 01:10:49] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 01:11:41] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 01:11:46] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 01:13:54] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:16:02] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:16:43] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:16:49] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:19:00] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:21:26] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 01:21:26] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 01:25:07] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:25:42] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:29:54] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:30:38] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 01:31:04] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 01:31:04] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 01:37:49] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:38:11] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:40:38] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:45:28] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 01:50:03] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 01:56:19] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 01:56:23] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 01:56:39] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 01:56:43] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 01:56:46] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 01:57:02] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 01:57:14] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 02:01:24] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 02:01:51] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 02:01:57] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 02:02:59] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 02:10:32] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 02:12:59] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 02:46:34] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 02:52:25] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 03:03:06] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 03:03:09] Error at line 596 in file /home/u1083135/public_html/papua/include/proses.php : Table 'u1083135_papua.monev_keterangan_ditolak' doesn't exist
+[11-11-2021 03:10:37] Error at line 48 in file /home/u1083135/public_html/papua/script/php/profile.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 3
+[11-11-2021 03:11:02] Error at line 48 in file /home/u1083135/public_html/papua/script/php/profile.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 3
+[11-11-2021 03:17:54] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[11-11-2021 07:30:32] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 07:30:32] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 09:38:16] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 09:38:18] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 09:38:27] Error at line 48 in file /home/u1083135/public_html/papua/script/php/profile.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 3
+[11-11-2021 09:38:30] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 09:38:31] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[11-11-2021 23:48:10] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3

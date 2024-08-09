@@ -1,0 +1,10 @@
+[14-11-2021 04:21:20] Error at line 678 in file /home/u1083135/public_html/papua/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[14-11-2021 04:21:21] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[14-11-2021 04:21:30] Error at line 747 in file /home/u1083135/public_html/papua/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[14-11-2021 04:23:20] Error at line 48 in file /home/u1083135/public_html/papua/script/php/profile.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 3
+[14-11-2021 05:21:28] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[14-11-2021 23:21:27] Error at line 55 in file /home/u1083135/public_html/papua/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
