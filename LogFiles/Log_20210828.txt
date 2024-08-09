@@ -1,0 +1,7 @@
+[28-08-2021 02:37:16] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[28-08-2021 04:01:20] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[28-08-2021 05:18:14] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[28-08-2021 07:59:31] Error at line 13 in file /home/u1083135/public_html/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[28-08-2021 07:59:31] Error at line 21 in file /home/u1083135/public_html/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and b.kabupatenkotaid =' at line 3
+[28-08-2021 07:59:31] Error at line 46 in file /home/u1083135/public_html/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and kabupatenkotaid =  and is_close = 1 
+                              and su...' at line 3

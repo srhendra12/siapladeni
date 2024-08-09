@@ -1,0 +1,38 @@
+[29-07-2024 04:25:19] Error at line 434 in file /var/www/siapladeni/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TEST XSS')</script>', '', '', 
+						'', '', '',
+						'a632dc735ed169eb2c65cf88' at line 4
+[29-07-2024 04:25:19] Error at line 310 in file /var/www/siapladeni/include/phpfunction.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TEST XSS')</script>', '', '', 
+						'', '', '',
+						'a632dc735ed169eb2c65cf88' at line 3
+[29-07-2024 04:25:25] Error at line 434 in file /var/www/siapladeni/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TEST XSS')</script>', '', '', 
+						'', '', '',
+						'a632dc735ed169eb2c65cf88' at line 4
+[29-07-2024 04:25:25] Error at line 310 in file /var/www/siapladeni/include/phpfunction.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TEST XSS')</script>', '', '', 
+						'', '', '',
+						'a632dc735ed169eb2c65cf88' at line 3
+[29-07-2024 04:25:44] Error at line 390 in file /var/www/siapladeni/include/proses.php : Format file lampiran dokumen php tidak sesuai
+[29-07-2024 04:25:54] Error at line 434 in file /var/www/siapladeni/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TEST XSS')</script>', '', '', 
+						'', '', 'pdf-asli.pdf',
+						'a632dc735ed1' at line 4
+[29-07-2024 04:25:54] Error at line 310 in file /var/www/siapladeni/include/phpfunction.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TEST XSS')</script>', '', '', 
+						'', '', 'pdf-asli.pdf',
+						'a632dc735ed1' at line 3
+[29-07-2024 04:25:58] Error at line 434 in file /var/www/siapladeni/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TEST XSS')</script>', '', '', 
+						'', '', 'pdf-asli.pdf',
+						'a632dc735ed1' at line 4
+[29-07-2024 04:25:58] Error at line 310 in file /var/www/siapladeni/include/phpfunction.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TEST XSS')</script>', '', '', 
+						'', '', 'pdf-asli.pdf',
+						'a632dc735ed1' at line 3
+[29-07-2024 04:26:36] Error at line 434 in file /var/www/siapladeni/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TEST XSS')</script>', '', '', 
+						'', '', '',
+						'a632dc735ed169eb2c65cf88' at line 4
+[29-07-2024 04:26:36] Error at line 310 in file /var/www/siapladeni/include/phpfunction.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TEST XSS')</script>', '', '', 
+						'', '', '',
+						'a632dc735ed169eb2c65cf88' at line 3
+[29-07-2024 04:27:21] Error at line 235 in file /var/www/siapladeni/include/proses.php : Format file lampiran dokumen pendukung php tidak sesuai
+[29-07-2024 04:29:13] Error at line 55 in file /var/www/siapladeni/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2024
+											o' at line 3
+[29-07-2024 04:29:17] Error at line 55 in file /var/www/siapladeni/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2024
+											o' at line 3

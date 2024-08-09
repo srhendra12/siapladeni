@@ -1,0 +1,4 @@
+[19-09-2023 01:50:52] Error at line 678 in file /home/u1083135/public_html/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[19-09-2023 01:50:53] Error at line 747 in file /home/u1083135/public_html/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[19-09-2023 21:33:48] Error at line 596 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[19-09-2023 21:34:03] Error at line 596 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist

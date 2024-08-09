@@ -1,0 +1,2 @@
+[11-05-2022 00:48:31] Error at line 596 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[11-05-2022 02:33:24] Error at line 596 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist

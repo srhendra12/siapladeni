@@ -1,0 +1,12 @@
+[30-08-2021 00:15:53] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-08-2021 00:18:24] Error at line 745 in file /home/u1083135/public_html/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[30-08-2021 00:51:02] Error at line 745 in file /home/u1083135/public_html/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[30-08-2021 02:27:33] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-08-2021 02:29:48] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-08-2021 02:31:38] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-08-2021 03:20:53] Error at line 745 in file /home/u1083135/public_html/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[30-08-2021 09:34:13] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-08-2021 17:46:49] Error at line 13 in file /home/u1083135/public_html/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[30-08-2021 17:46:49] Error at line 21 in file /home/u1083135/public_html/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and b.kabupatenkotaid =' at line 3
+[30-08-2021 17:46:49] Error at line 46 in file /home/u1083135/public_html/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and kabupatenkotaid =  and is_close = 1 
+                              and su...' at line 3

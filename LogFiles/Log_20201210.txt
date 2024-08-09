@@ -1,0 +1,2 @@
+[10-12-2020 02:46:13] Error at line 745 in file /home/u1083135/public_html/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[10-12-2020 04:57:36] Error at line 745 in file /home/u1083135/public_html/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1

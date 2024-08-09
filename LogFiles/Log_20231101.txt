@@ -1,0 +1,1 @@
+[01-11-2023 00:23:35] Error at line 596 in file /var/www/siapladeni/include/proses.php : Table 'siapladeni.monev_keterangan_ditolak' doesn't exist

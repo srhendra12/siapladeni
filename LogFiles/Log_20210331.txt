@@ -1,0 +1,10 @@
+[31-03-2021 00:05:13] Error at line 745 in file /home/u1083135/public_html/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[31-03-2021 00:18:56] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[31-03-2021 00:26:01] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[31-03-2021 00:44:09] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[31-03-2021 02:39:47] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[31-03-2021 02:49:57] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[31-03-2021 03:27:22] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[31-03-2021 05:03:01] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[31-03-2021 15:34:34] Error at line 745 in file /home/u1083135/public_html/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[31-03-2021 22:09:14] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist

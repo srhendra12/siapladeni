@@ -1,0 +1,2 @@
+[06-08-2023 23:31:43] Error at line 390 in file /home/u1083135/public_html/include/proses.php : Format file lampiran dokumen jfif tidak sesuai
+[06-08-2023 23:34:07] Error at line 596 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist

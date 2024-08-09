@@ -1,0 +1,8 @@
+[03-11-2020 01:44:53] Error at line 745 in file /home/u1083135/public_html/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[03-11-2020 03:23:52] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[03-11-2020 03:47:08] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[03-11-2020 04:21:30] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[03-11-2020 05:57:16] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[03-11-2020 14:02:48] Error at line 50 in file /home/u1083135/public_html/include/proses.php : Lokasi directory salah : 
+[03-11-2020 14:38:27] Error at line 50 in file /home/u1083135/public_html/include/proses.php : Lokasi directory salah : 
+[03-11-2020 15:00:57] Error at line 50 in file /home/u1083135/public_html/include/proses.php : Lokasi directory salah : 

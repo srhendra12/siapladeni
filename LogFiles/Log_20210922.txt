@@ -1,0 +1,4 @@
+[22-09-2021 13:16:05] Error at line 55 in file /home/u1083135/public_html/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and is_close = 1 
+											and substring(tahun_data, 1, 4) = 2021
+									...' at line 3
+[22-09-2021 13:26:21] Error at line 596 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist

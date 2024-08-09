@@ -1,0 +1,16 @@
+[30-12-2020 00:54:51] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-12-2020 02:24:54] Error at line 745 in file /home/u1083135/public_html/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[30-12-2020 03:15:45] Error at line 388 in file /home/u1083135/public_html/include/proses.php : Format file lampiran dokumen jpeg tidak sesuai
+[30-12-2020 03:18:17] Error at line 388 in file /home/u1083135/public_html/include/proses.php : Format file lampiran dokumen docx tidak sesuai
+[30-12-2020 03:18:41] Error at line 388 in file /home/u1083135/public_html/include/proses.php : Format file lampiran dokumen docx tidak sesuai
+[30-12-2020 03:21:03] Error at line 388 in file /home/u1083135/public_html/include/proses.php : Format file lampiran dokumen docx tidak sesuai
+[30-12-2020 03:21:21] Error at line 388 in file /home/u1083135/public_html/include/proses.php : Format file lampiran dokumen jpeg tidak sesuai
+[30-12-2020 03:23:34] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-12-2020 04:50:32] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-12-2020 05:30:36] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-12-2020 06:00:14] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-12-2020 08:06:34] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-12-2020 09:26:18] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-12-2020 10:53:30] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-12-2020 13:26:15] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[30-12-2020 15:47:57] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist

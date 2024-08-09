@@ -1,0 +1,9 @@
+[19-07-2024 05:58:00] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[19-07-2024 05:58:12] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[19-07-2024 08:38:10] Error at line 146 in file /var/www/siapladeni/include/proses.php : Field 'firstTitle' doesn't have a default value
+[19-07-2024 08:38:10] Error at line 154 in file /var/www/siapladeni/include/proses.php : Proses penyimpanan data gagal !!
+[19-07-2024 08:39:04] Error at line 138 in file /var/www/siapladeni/include/proses.php : Lokasi directory salah : /var/www/siapladeni/attachment/slideshow/
+[19-07-2024 08:40:41] Error at line 146 in file /var/www/siapladeni/include/proses.php : Field 'firstTitle' doesn't have a default value
+[19-07-2024 08:40:41] Error at line 154 in file /var/www/siapladeni/include/proses.php : Proses penyimpanan data gagal !!
+[19-07-2024 08:40:50] Error at line 146 in file /var/www/siapladeni/include/proses.php : Field 'firstTitle' doesn't have a default value
+[19-07-2024 08:40:50] Error at line 154 in file /var/www/siapladeni/include/proses.php : Proses penyimpanan data gagal !!

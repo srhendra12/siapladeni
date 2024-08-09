@@ -1,0 +1,12 @@
+[05-10-2020 16:19:42] Error at line 112 in file /home/u1083135/public_html/index.php : Table 'u1083135_sipladeni.lapas_link_terkait' doesn't exist
+[05-10-2020 16:21:16] Error at line 112 in file /home/u1083135/public_html/index.php : Table 'u1083135_sipladeni.lapas_link_terkait' doesn't exist
+[05-10-2020 16:21:22] Error at line 112 in file /home/u1083135/public_html/index.php : Table 'u1083135_sipladeni.lapas_link_terkait' doesn't exist
+[05-10-2020 16:22:08] Error at line 112 in file /home/u1083135/public_html/index.php : Table 'u1083135_sipladeni.lapas_link_terkait' doesn't exist
+[05-10-2020 16:22:25] Error at line 112 in file /home/u1083135/public_html/index.php : Table 'u1083135_sipladeni.lapas_link_terkait' doesn't exist
+[05-10-2020 16:22:29] Error at line 112 in file /home/u1083135/public_html/index.php : Table 'u1083135_sipladeni.lapas_link_terkait' doesn't exist
+[05-10-2020 16:22:33] Error at line 112 in file /home/u1083135/public_html/index.php : Table 'u1083135_sipladeni.lapas_link_terkait' doesn't exist
+[05-10-2020 16:23:36] Error at line 112 in file /home/u1083135/public_html/index.php : Table 'u1083135_sipladeni.lapas_link_terkait' doesn't exist
+[05-10-2020 16:23:47] Error at line 112 in file /home/u1083135/public_html/index.php : Table 'u1083135_sipladeni.lapas_link_terkait' doesn't exist
+[05-10-2020 21:42:49] Error at line 50 in file /home/u1083135/public_html/include/proses.php : Lokasi directory salah : 
+[05-10-2020 23:59:05] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist
+[05-10-2020 23:59:31] Error at line 594 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_sipladeni.monev_keterangan_ditolak' doesn't exist

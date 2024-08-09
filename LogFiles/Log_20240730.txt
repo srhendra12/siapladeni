@@ -1,0 +1,2 @@
+[30-07-2024 16:42:38] Error at line 678 in file /var/www/siapladeni/script/php/form_inputPerencanaan.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[30-07-2024 16:42:39] Error at line 747 in file /var/www/siapladeni/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1

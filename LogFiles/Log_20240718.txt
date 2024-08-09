@@ -1,0 +1,44 @@
+[18-07-2024 01:04:04] Error at line 596 in file /var/www/siapladeni/include/proses.php : Table 'siapladeni.monev_keterangan_ditolak' doesn't exist
+[18-07-2024 01:18:00] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:20:35] Error at line 434 in file /var/www/siapladeni/include/proses.php : Incorrect decimal value: '' for column 'sumPotensi' at row 1
+[18-07-2024 01:20:35] Error at line 310 in file /var/www/siapladeni/include/phpfunction.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sumPotensi' at row 1')' at line 3
+[18-07-2024 01:20:44] Error at line 434 in file /var/www/siapladeni/include/proses.php : Incorrect decimal value: '' for column 'sumPotensi' at row 1
+[18-07-2024 01:20:44] Error at line 310 in file /var/www/siapladeni/include/phpfunction.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sumPotensi' at row 1')' at line 3
+[18-07-2024 01:23:50] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:27:24] Error at line 434 in file /var/www/siapladeni/include/proses.php : Incorrect decimal value: '' for column 'sumPotensi' at row 1
+[18-07-2024 01:27:24] Error at line 310 in file /var/www/siapladeni/include/phpfunction.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sumPotensi' at row 1')' at line 3
+[18-07-2024 01:29:00] Error at line 434 in file /var/www/siapladeni/include/proses.php : Incorrect decimal value: '' for column 'sumPotensi' at row 1
+[18-07-2024 01:29:00] Error at line 310 in file /var/www/siapladeni/include/phpfunction.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sumPotensi' at row 1')' at line 3
+[18-07-2024 01:29:03] Error at line 434 in file /var/www/siapladeni/include/proses.php : Incorrect decimal value: '' for column 'sumPotensi' at row 1
+[18-07-2024 01:29:03] Error at line 310 in file /var/www/siapladeni/include/phpfunction.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sumPotensi' at row 1')' at line 3
+[18-07-2024 01:29:18] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:29:24] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:29:34] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:30:00] Error at line 434 in file /var/www/siapladeni/include/proses.php : Incorrect decimal value: '' for column 'sumPotensi' at row 1
+[18-07-2024 01:30:00] Error at line 310 in file /var/www/siapladeni/include/phpfunction.php : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sumPotensi' at row 1')' at line 3
+[18-07-2024 01:30:14] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:30:46] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:31:49] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:32:07] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:32:58] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:34:00] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:38:25] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:43:13] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:43:48] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:44:07] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:44:15] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:44:25] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:44:34] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:46:02] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 01:50:29] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 02:14:56] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 02:15:57] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 02:17:27] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 04:12:42] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 04:12:45] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 04:12:48] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 04:12:51] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 04:12:57] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 04:13:00] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 04:13:21] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1
+[18-07-2024 04:14:01] Error at line 187 in file /var/www/siapladeni/include/proses.php : Incorrect integer value: '' for column 'kd_kota' at row 1

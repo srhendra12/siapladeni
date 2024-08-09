@@ -1,0 +1,2 @@
+[31-03-2023 00:12:33] Error at line 92 in file /home/u1083135/public_html/script/php/rekap_potensi_ancaman.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 3
+[31-03-2023 00:12:34] Error at line 92 in file /home/u1083135/public_html/script/php/rekap_potensi_ancaman.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by 1' at line 3
