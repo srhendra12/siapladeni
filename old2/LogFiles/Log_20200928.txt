@@ -1,0 +1,7 @@
+[28-09-2020 03:16:49] Error at line 657 in file /home/u5838217/public_html/demolapas/include/proses.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[28-09-2020 07:14:48] Error at line 515 in file /home/u5838217/public_html/demolapas/include/proses.php : Table 'u5838217_demolapas.monev_keterangan_ditolak' doesn't exist
+[28-09-2020 10:07:49] Error at line 515 in file /home/u5838217/public_html/demolapas/include/proses.php : Table 'u5838217_demolapas.monev_keterangan_ditolak' doesn't exist
+[28-09-2020 12:43:34] Error at line 13 in file /home/u5838217/public_html/demolapas/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[28-09-2020 12:43:34] Error at line 21 in file /home/u5838217/public_html/demolapas/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and b.kabupatenkotaid =' at line 3
+[28-09-2020 12:43:34] Error at line 46 in file /home/u5838217/public_html/demolapas/script/php/barchart_hasil_penilaian.php : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and kabupatenkotaid =  and is_close = 1 
+                              and su...' at line 3

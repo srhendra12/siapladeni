@@ -1,0 +1,29 @@
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+	var window_width 	= $('#content-informasi').width();
+
+	$('#divList').width(window_width - 40);
+	ajaxloading('divList');
+	$('#divForm').load('script/php/form_param_kriteria.php?isKriteria=false&nmFile=list_penilaian_evaluasi');
+	$('#divList').load('script/php/list_penilaian_evaluasi.php');
+});
+</script>
+<ul class="breadcrumb">
+	<li><a href="<?=$_SERVER['PHP_SELF']?>"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+    <li class=".nav-divider">Management Data</li>
+	<li class=".nav-divider">Parameter</li>
+	<li class=".nav-divider">Tahap Pasca Konstruksi</li>
+    <li class=".nav-divider">Penilaian Evaluasi Pasca Konstruksi</li>
+</ul>
+
+<div class="center-block">
+    <div class="panel panel-info">
+        <div class="panel-heading" align="left">
+          <b class="panel-title">Daftar Parameter Penilaian Evaluasi Pasca Konstruksi</b>
+        </div>
+        <div class="panel-body">
+			<div id="divForm"></div>
+			<div id="divList" class="maintablecontainer"></div>
+		</div>
+	</div>
+</div>

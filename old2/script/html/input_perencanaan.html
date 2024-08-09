@@ -1,0 +1,23 @@
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+	var window_width 	= $(window).width();
+	var window_height 	= $(window).height();
+
+	var window_width 	= $('#content-informasi').width();
+	var window_height 	= $(window).height();
+
+	$('#divList').width(window_width - 15);
+
+	var getID 		= GetUrlValue('id');
+	ajaxloading('divList');
+	$('#divList').load('script/php/form_inputPerencanaan.php?isEdit='+ getID);
+});
+</script>
+<ul class="breadcrumb">
+	<li><a href="<?=$_SERVER['PHP_SELF']?>"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+    <li class=".nav-divider">Input Data</li>
+	<li class="breadcrumb-item active">Deteksi Dini Potensi Gangguan Keamanan & Ketertiban</li>
+</ul>
+
+<div id="loadcontent"></div>
+<div id="divList"></div>

@@ -1,0 +1,4 @@
+[27-09-2020 08:48:32] Error at line 55 in file /home/u1083135/public_html/script/php/formWilayah.php : Unknown column 'provisiname' in 'field list'
+[27-09-2020 13:31:39] Error at line 446 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_lapas.monev_keterangan_ditolak' doesn't exist
+[27-09-2020 13:31:46] Error at line 446 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_lapas.monev_keterangan_ditolak' doesn't exist
+[27-09-2020 13:31:54] Error at line 446 in file /home/u1083135/public_html/include/proses.php : Table 'u1083135_lapas.monev_keterangan_ditolak' doesn't exist

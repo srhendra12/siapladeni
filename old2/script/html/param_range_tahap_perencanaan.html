@@ -1,0 +1,22 @@
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+	var window_width 	= $('#content-informasi').width();
+	var window_height 	= $(window).height();
+
+	$('#divList').height(window_height-40);
+	$('#divForm #divList').width(window_width);
+	
+	ajaxloading('divList');
+	$('#divForm').load('script/php/form_penilaian_tahap_perencanaan.php');
+	$('#divList').load('script/php/list_penilaian_tahap_perencanaan.php');
+});
+</script>
+<ul class="breadcrumb">
+	<li><a href="<?=$_SERVER['PHP_SELF']?>"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+    <li class=".nav-divider">Management Data</li>
+    <li class=".nav-divider">Elemen Assessment</li>
+	<li class="breadcrumb-item active">Parameter Kecenderungan Pemahaman Petugas</li>
+</ul>
+<div id="divForm" class="maintablecontent"></div>
+<div id="loadcontent"></div>
+<div id="divList" class="maintablecontainer"></div>

@@ -1,0 +1,23 @@
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+	var window_width 	= $('#content-informasi').width();
+
+	// $('#divList').height(window_height - 120);
+	$('#divList').width(window_width - 35);
+	ajaxloading('divList');
+	$('#divForm').load('script/php/form_param_rekapMonev.php');
+	$('#divList').load('script/php/rekap_hasil_monev.php');
+});
+</script>
+<div class="center-block">
+    <div class="panel panel-info">
+        <div class="panel-heading" align="left">
+          <b class="panel-title">Rekapitulasi Hasil Monev</b>
+        </div>
+        <div class="panel-body">
+			<div id="divForm"></div>
+			<hr>
+			<div id="divList" class="maintablecontainer" style="margin-top: 20px;"></div>
+		</div>
+	</div>
+</div>
